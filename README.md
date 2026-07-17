@@ -25,7 +25,7 @@
 <table>
 <tr>
 
-<td width="80%">
+<td width="8000%">
 
 ### 👨‍💻 About Me
 
@@ -49,7 +49,7 @@
 
 <td width="70%" align="center">
 
-<img src="about.gif" width="700"/>
+<img src="about.gif" width="600"/>
 
 </td>
 
