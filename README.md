@@ -49,7 +49,7 @@
 
 <td width="700%" align="center">
 
-<img src="about.gif" width="600"/>
+<img src="about.gif" width="500"/>
 
 </td>
 
