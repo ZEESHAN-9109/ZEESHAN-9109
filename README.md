@@ -96,12 +96,6 @@
 
 <div align="center">
 
-# 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/ZEESHAN-9109/ZEESHAN-9109/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
 ---
 
 <div align="center">
