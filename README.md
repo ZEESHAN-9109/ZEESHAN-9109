@@ -106,37 +106,13 @@
 </div>
 
 ```
-workflows/snake.yml
-# GitHub Action for Snake
+<div align="center">
 
-name: Generate Snake
+## 🐍 Contribution Snake
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
+<img src="https://raw.githubusercontent.com/ZEESHAN-9109/ZEESHAN-9109/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ZEESHAN-9109
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
+</div>
 ---
 
 <div align="center">
