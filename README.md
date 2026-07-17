@@ -114,7 +114,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="zeahmed15432@gmail.com">
 <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -122,7 +122,7 @@
 <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://www.instagram.com/ze.eshan_07/?hl=en">
 <img src="https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -142,6 +142,6 @@
 
 ### 💙 *"Code • Learn • Build • Repeat"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:001F3F,100:0A66C2"/>
+<img src="https://pin.it/50AWbvcWItype=waving&height=120&section=footer&color=0:001F3F,100:0A66C2"/>
 
 </div>
