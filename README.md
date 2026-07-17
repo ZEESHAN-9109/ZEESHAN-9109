@@ -142,6 +142,6 @@
 
 ### 💙 *"Code • Learn • Build • Repeat"*
 
-<img src="https://pin.it/50AWbvcWItype=waving&height=120&section=footer&color=0:001F3F,100:0A66C2"/>
+<!--- <img src="Artificial Intelligence – that doesn’t sound alright!.jpg" width="100%" alt="Banner"/>-->
 
 </div>
